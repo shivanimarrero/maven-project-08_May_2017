@@ -111,6 +111,7 @@
 			<scope>provided</scope>
 		</dependency>
 		<!-- Mule Modules -->
+		
 		<dependency>
 			<groupId>org.mule.modules</groupId>
 			<artifactId>mule-module-scripting</artifactId>
@@ -169,7 +170,7 @@
             <groupId>org.mule.modules</groupId>
             <artifactId>mule-module-json</artifactId>
             <version>${mule.version}</version>
-            <scope>provided</scope>
+	<scope>provided</scope>
         </dependency>
     </dependencies>
 
